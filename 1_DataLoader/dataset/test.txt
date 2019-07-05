@@ -1,0 +1,91 @@
+
+
+batch : 0 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([92, 47, 78, 97])
+idxs : tensor([5425, 2759, 4586, 5704])
+
+batch : 1 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([92, 21, 86, 26])
+idxs : tensor([5394, 1209, 5070, 1488])
+
+batch : 2 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([72, 19, 84, 97])
+idxs : tensor([4231, 1071, 4931, 5689])
+
+batch : 3 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([93, 80, 80, 61])
+idxs : tensor([5463, 4700, 4673, 3561])
+
+batch : 4 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([38, 53, 92, 87])
+idxs : tensor([2208, 3125, 5396, 5104])
+
+batch : 5 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([97, 32, 29, 95])
+idxs : tensor([5706, 1834, 1675, 5606])
+
+batch : 6 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([64, 11, 71, 46])
+idxs : tensor([3748,  651, 4153, 2700])
+
+batch : 7 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([ 3, 72, 71,  2])
+idxs : tensor([ 231, 4241, 4186,  174])
+
+batch : 8 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([51, 21, 20, 94])
+idxs : tensor([2962, 1202, 1145, 5511])
+
+batch : 9 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([91, 36, 45, 64])
+idxs : tensor([5382, 2073, 2646, 3737])
+
+batch : 10 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([41, 93, 50, 54])
+idxs : tensor([2392, 5447, 2922, 3173])
+
+batch : 11 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([17, 32, 47, 11])
+idxs : tensor([ 969, 1823, 2736,  623])
+
+batch : 12 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([86,  8, 95, 38])
+idxs : tensor([5062,  462, 5591, 2207])
+
+batch : 13 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([25, 54, 50, 25])
+idxs : tensor([1426, 3181, 2904, 1408])
+
+batch : 14 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([41, 23, 66,  9])
+idxs : tensor([2355, 1309, 3883,  490])
+
+batch : 15 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([85, 56,  9, 75])
+idxs : tensor([5009, 3292,  540, 4418])
+
+batch : 16 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([91,  2,  4, 61])
+idxs : tensor([5325,  175,  259, 3559])
+
+batch : 17 / 
+inputs : torch.Size([4, 3, 227, 227])
+labels : tensor([33, 64, 25, 53])
+idxs : tensor([1895, 3738, 1452, 3085])
